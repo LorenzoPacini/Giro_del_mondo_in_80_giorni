@@ -24,3 +24,4 @@ Dobbiamo riuscire a trovare, se esiste, una strada che possa riportarci a Londra
 - *networkx*
 - *haversine*
 - *sklearn*
+- *folium*
